@@ -7,8 +7,8 @@ api_id = 25427468
 api_hash = '911ddfed8a08e11d43940c7aa1675931'
 
 # Configura los canales
-canal_origen = -1002403945427  # ID del canal de origen
-canal_destino = -1001809755552  # ID del canal de destino
+canal_origen = -1001819222843  # ID del canal de origen
+canal_destino = -1002403945427  # ID del canal de destino
 
 # Elimina la sesión anterior si está presente
 if os.path.exists("mi_sesion.session"):
