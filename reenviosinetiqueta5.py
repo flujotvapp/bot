@@ -13,7 +13,6 @@ canales_mapeados = {
     -1001702806294: -1001809755552,  # entretenimientolat a play latino oficial
     -1002484204066: -1002403945427,  # Admins a flujo oficial
     -1001809755552: -1001647498192,  # Play latino oficial a Play latino
-    -1002262623789: -1002290744520,   # Marcellvip a VIP Trading
     -1002231971466: -1001848625541   #REGALOS DIGITALES a Emprendimientos VIP
 }
 
@@ -135,3 +134,4 @@ while True:
         print("❌ Error detectado:", e)
         print("⏳ Reintentando en 5 segundos...")
         time.sleep(5)
+
